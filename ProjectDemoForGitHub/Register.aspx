@@ -9,7 +9,8 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Name:<asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+
+            FullName:<asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
             <br />
             <br />
             Email:<asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
