@@ -18,6 +18,7 @@
         </p>
         <p>
             <asp:Label ID="Label2" runat="server"></asp:Label>
+             <asp:Button ID="Button3" runat="server" OnClick="Button2_Click" Text="View" Width="100px" />
         </p>
         <p>
             &nbsp;</p>
