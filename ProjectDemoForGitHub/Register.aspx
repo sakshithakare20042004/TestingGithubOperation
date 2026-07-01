@@ -18,6 +18,7 @@
             Password:<asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
             <br />
         </div>
+        <asp:Button ID="Button1" runat="server" Text="Register" />
     </form>
 </body>
 </html>
